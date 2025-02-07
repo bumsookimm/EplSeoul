@@ -24,7 +24,7 @@
                 Kakao Api를 활용하여 카카오 맵 장소 url을 사용자에게 제공
 
 
-<img src="https://github.com/user-attachments/assets/b195d4fd-4724-40f8-8545-595d253fe7e0" width="800" height="600" />
+![Image](https://github.com/user-attachments/assets/5b502a0c-a1f2-4fd4-b839-e98a44511d45)
 
 
 
