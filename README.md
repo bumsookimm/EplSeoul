@@ -24,7 +24,7 @@
                 Kakao Api를 활용하여 카카오 맵 장소 url을 사용자에게 제공
 
 
-![Project Demo](https://github.com/bumsookimm/EplSeoul/bus.gif)
+![Image](https://github.com/user-attachments/assets/b195d4fd-4724-40f8-8545-595d253fe7e0)
 
 
 
