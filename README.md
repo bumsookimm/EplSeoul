@@ -24,7 +24,7 @@
                 Kakao Api를 활용하여 카카오 맵 장소 url을 사용자에게 제공
 
 
-Uploading bandicam 2025-02-08 01-50-49-051.mp4…
+![Project Demo](https://github.com/bumsookimm/EplSeoul/bus.gif)
 
 
 
