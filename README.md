@@ -1,6 +1,6 @@
 # EPL(Eat,Play,Love) Seoul : 서울시 교통관광정보 시스템
 
-공공데이터포털, 서울열린데이터광장 등 **open API로 검증된 데이터를 가공**하고, Google Api, Kakao Api, T-map Api, Naver Api, Open API, Chart.js를 활용하여 **시각화된 데이터를 제공**하는 웹 페이지를 제작한 풀스택 프로젝트
+공공데이터포털, 서울열린데이터광장 등 **open API로 검증된 데이터를 가공**하고, Google Api, Kakao Api, T-map Api, Naver Api, Chart.js를 활용하여 **시각화된 데이터를 제공**하는 웹 페이지를 제작한 풀스택 프로젝트
 
 #### [프로젝트 목표]
 
@@ -12,7 +12,7 @@
 
 - **인원**: 백엔드 5인
 - **기간**: 24. 11. 25 - 24. 12. 19. (Total 25일 / Workday 18일)
-- **주요 기술 스택**: ```Java```, ```Spring```, ```Jsp```, ```MariaDB```, ```JUnit 5```, ```Jpa```, ```Chart.js```
+- **주요 기술 스택**: ```Java```, ```Spring```, ```MySQL```, ```MyBatis```, ```Chart.js```
 - **나의 담당 역할**: 버스 정류소
 
 <br>
