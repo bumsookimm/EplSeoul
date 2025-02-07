@@ -23,7 +23,10 @@
 - **APi 활용**: Google Places API를 활용하여 장소의 이미지, 리뷰 수, 평점을 조회하여 사용자에게 제공
                 Kakao Api를 활용하여 카카오 맵 장소 url을 사용자에게 제공
 
-![실시간](https://github.com/user-attachments/assets/62698d79-be2b-4ef9-8821-586a36a6a14c)
+
+Uploading bandicam 2025-02-08 01-50-49-051.mp4…
+
+
 
 <br>
 
