@@ -44,3 +44,12 @@
 - **APi 활용**: 버스 위치 정보 Open API와 연동하여 실시간 버스 정보를 JSON 형식으로 파싱, 버스 정보를 객체로 변환 하여 실시간 버스 위치, 혼잡도, 위치 정보 등을 제공
 
 ![Image](https://github.com/user-attachments/assets/bdf6007b-348e-40fc-bf32-91e902f29577)
+
+
+<br>
+
+### [보행 거리 경로]
+
+- **APi 활용**: 출발지, 도착지 좌표 변환 및 Tmap API 요청, 응답 데이터를 기반으로 Kakao Maps Polyline을 생성하여 경로 시각화 및 시간 및 거리 표시
+
+![Image](https://github.com/user-attachments/assets/49d43d0d-96da-4471-abe7-2e7f49545adf)
