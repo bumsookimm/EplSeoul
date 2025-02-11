@@ -35,7 +35,7 @@
 - **APi 활용**: 네이버 블로그 API에서 블로그 포스트를 검색, 검색어를 URL 인코딩하여 API에 전달하고, JSON 응답을 파싱하여 블로그 포스트 목록 반환
 
 
-![월별](https://github.com/user-attachments/assets/46ac2905-1788-42a7-8904-96bb64eb8760)
+![Image](https://github.com/user-attachments/assets/456d1c41-7aaf-4004-b218-cd207c8bda37)
 
 <br>
 
