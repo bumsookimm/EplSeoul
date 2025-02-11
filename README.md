@@ -57,8 +57,7 @@
 
 ### [시간별 승차 시각화]
 
-- **DB 데이터 활용**: 시간별 승하차 데이터 DB에 저장 -> 저장된 데이터를 기반으로 정류장 승하차 데이터 Chart.js를 활용히여 시각화
-- **APi 활용**: Google Places API를 활용하여 장소의 이미지, 리뷰 수, 평점을 조회하여 사용자에게 제공,
-                Kakao Api를 활용하여 카카오 맵 장소 url을 사용자에게 제공
+- **DB 데이터 활용**: 시간별 승하차 데이터 DB에 저장 -> 저장된 데이터를 기반으로 정류장 승하차 데이터 전달
+- **차트 생성 및 업데이트**: DB에서 받은 데이터를 Chart.js를 활용히여 시각화
 
-![Image](https://github.com/user-attachments/assets/49d43d0d-96da-4471-abe7-2e7f49545adf)
+![Image](https://github.com/user-attachments/assets/7820eaf1-d652-4a3d-b558-904bf616ff6b)
