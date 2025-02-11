@@ -26,8 +26,6 @@
 
 ![Image](https://github.com/user-attachments/assets/5b502a0c-a1f2-4fd4-b839-e98a44511d45)
 
-
-
 <br>
 
 ### [주변 시설 블로그 검색] 
@@ -51,5 +49,16 @@
 ### [보행 거리 경로]
 
 - **APi 활용**: 출발지, 도착지 좌표 변환 및 Tmap API 요청, 응답 데이터를 기반으로 Kakao Maps Polyline을 생성하여 경로 시각화 및 시간 및 거리 표시
+
+![Image](https://github.com/user-attachments/assets/49d43d0d-96da-4471-abe7-2e7f49545adf)
+
+
+<br>
+
+### [시간별 승차 시각화]
+
+- **DB 데이터 활용**: 시간별 승하차 데이터 DB에 저장 -> 저장된 데이터를 기반으로 정류장 승하차 데이터 Chart.js를 활용히여 시각화
+- **APi 활용**: Google Places API를 활용하여 장소의 이미지, 리뷰 수, 평점을 조회하여 사용자에게 제공,
+                Kakao Api를 활용하여 카카오 맵 장소 url을 사용자에게 제공
 
 ![Image](https://github.com/user-attachments/assets/49d43d0d-96da-4471-abe7-2e7f49545adf)
